@@ -84,7 +84,7 @@ export default function Home() {
     <main className="min-h-screen p-6 max-w-3xl mx-auto">
       <h1 className="text-2xl font-bold">IT Shop Voice Q&A (Web Speech)</h1>
       <p className="text-sm opacity-80 mt-2">
-        กดเริ่มแล้วพูด เช่น “มี SSD 1TB ไหม ราคาเท่าไหร่”
+        กดแล้ว ลองพูดเมนูที่ ต้องการ”
       </p>
 
       <div className="mt-6 flex gap-3">
